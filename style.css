@@ -1,0 +1,224 @@
+ 
+body{
+	background-color: #ffffff; 
+}
+
+
+
+.titoloMp{
+	
+	 
+}
+
+.bgMenu {
+	list-style-type: none;
+	margin: -8;
+	padding: -5;
+	overflow: hidden;
+	background-color: #00cccc;
+	display:block;
+}
+
+.linkMenu {
+
+	float: right;
+}
+
+.linkMenuL{
+	float: left;
+}
+
+.login-container{
+
+	
+	
+	margin-top:10px;
+	padding: 0px 0px;
+	
+	
+}
+
+.button-submit-style{
+	
+	background-color: #00cccc; 
+	border: none;
+	color: white;
+	padding: 0px 0px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 0px 2px;
+	cursor: pointer;
+	/* delimita solo il login ed la registrazione*/
+}
+
+.button-registr-style{
+
+	background-color: #4CAF50;
+	border: none;
+	color: white;
+	padding: 5px 5px;
+	text-align: center;
+	display: inline-block;
+	font-size: 10px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 8px;
+}
+
+.menuButton {
+	background-color: #00cccc;
+	border: none;
+	text-align: center;
+	text-decoration: none;
+	margin: -10;
+	padding: 15px 32px;
+	font-size: 22;
+}
+
+
+.slideP{
+	display: none;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	
+	border : 10px solid #ffffff;
+	border-radius: 10px;
+	padding: 5px;
+	width: 1300px;
+	
+}
+.buttonSlideS{
+	border-radius: 50%;
+	background-color: #ffffff;
+	border: 1px solid #00cccc;
+	padding: 14px 18px;
+	margin-left: 47.5%;
+	-webkit-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+}
+.buttonSlideS:hover{
+	background-color: #b3ffff;
+	color: white;
+}
+.buttonSlideD{
+	border-radius: 50%;
+	background-color: #ffffff;
+	border: 1px solid #00cccc;
+	padding: 14px 18px;
+	-webkit-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+}
+.buttonSlideD:hover{
+	background-color: #b3ffff;
+	color: white;
+}
+
+.titoloDest{
+	text-align: center;
+}
+
+.bhr{
+	border-radius: 6px;
+}
+
+.destinazioni{
+	position: relative;
+	padding: 20 20px;
+	float: left;
+	width: 30%;
+}
+
+div.imgDest{
+	
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5), 0 6px 20px 0 rgba(0,0,0,0.5);
+}
+div.textDest{
+	text-align: center;
+	padding: 10px 20px;
+}
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+
+.overlay {
+	position: absolute;
+	bottom: 100%;
+	left: 0;
+	right: 0;
+	background-color: rgba(0,0,0,0.3);
+	overflow: hidden;
+	width: 100%;
+	height:0;
+	transition: .5s ease;
+}
+
+.destinazioni:hover .overlay {
+	bottom: 0;
+	height: 100%;
+}
+.testoOver {
+	white-space: nowrap; 
+	color: white;
+	font-size: 20px;
+	position: absolute;
+	overflow: hidden;
+	top: 50%;
+	left: 30%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+}
+.logoDiFondo{
+	float: right;
+}
+
+.buttonSubmitStyle{
+	background-color: #4CAF50;
+	border: none;
+	color: white;
+	padding: 5px 5px;
+	text-align: center;
+	display: inline-block;
+	font-size: 10px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 8px;
+}
+
+
+.descrizioneOfferte{
+	text-align: right;
+	color: black;
+	font-size: 40px;
+	
+}
+.descrizioneOfferte2{
+	text-align: left;
+	color: black;
+	font-size: 40px;
+	
+}
+.destinazioniDex{
+	position: relative;
+	padding: 20 20px;
+	float: Right;
+	width: 30%;
+}
+
+.searchbar{
+	margin-left: 45%;
+	
+}
+.destinazioni2{
+	width:200px;
+	height:40px;
+}
+
+.imgVoli{
+	margin-left:20%;
+}

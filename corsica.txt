@@ -1,0 +1,25 @@
+
+
+     <div class="destinazioni">
+	  <div class="imgDest">
+	  <img class="imgds" src="img\img card\corsica.jpg" style="width:100%" width="700" height="350">
+	      <div class="textDest">
+		  <p>Corsica</p>
+		  </div>
+	  </div>
+	</div>
+
+    <div class="descrizioneOfferte">
+	        <pre>
+			<font face="Georgia">
+Resort Casa Del Mar
+
+Pernottamento: 8 giorni
+solo andata 
+Guida locale per visite:si
+Costo : 550 euro 2 persone
+Partenza: Roma
+Spa compresa
+			</pre>
+    </div>
+

@@ -1,0 +1,23 @@
+<br><br>
+
+	<div  class="searchbar">
+		<form action="" name="searchf" method="post" >
+			<SELECT id="dest" size="1" cols="10" class="destinazioni2" required >
+			 <option selected value="nessuna"> Scegli il tuo resort
+			 <option value="corsica" class="desti"> Corsica
+			 <option value="dubai" class="desti"> Dubai
+			 <option value="seychelles"class="desti"> Seychelles
+			 </SELECT><br><br>
+			 <input type="date" class="data"><br><br>
+		</form>
+		<button onclick="vediResort()">Cerca </button>
+	</div>
+	<br>
+    <div id="zonaDinamicaResort">
+	
+	<div class="imgVoli">
+	<img src="img\resort.jpg">
+	</div>
+    </div>
+
+<br><br><br>

@@ -1,0 +1,22 @@
+
+     <div class="destinazioni">
+	  <div class="imgDest">
+	  <img class="imgds" src="img\img card\londra.jpg" style="width:100%" width="700" height="350">
+	      <div class="textDest">
+		  <p>Londra</p>
+		  </div>
+	  </div>
+	</div>
+
+    <div class="descrizioneOfferte">
+	        <pre>
+			<font face="Georgia">
+Volo da Roma a Londra
+
+partenza ore: 16 e 30
+Aereporto: Fiumicino
+Orario Check in: 15 e 40
+importo viaggio 150 EUR
+			</pre>
+    </div>
+<br><br><br>

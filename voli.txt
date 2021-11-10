@@ -1,0 +1,28 @@
+<br><br>
+
+	<div  class="searchbar">
+		<form action="" name="searchf" method="post" >
+			<SELECT id="dest" size="1" cols="10" class="destinazioni2" required >
+			 <option selected value="nessuna"> Seleziona la tua destinazione
+			 <option value="Milano" class="desti"> Milano
+			 <option value="Londra" class="desti"> Londra
+			 <option value="Bangkok"class="desti"> Bangkok
+			 </SELECT><br><br>
+			 <input type="date" class="data"><br>
+		</form>
+		<button onclick="vediVoli()">Cerca </button>
+	</div>
+<br>
+    <div id="zonaDinamicaVoli">
+	
+	<div class="imgVoli">
+	<img src="img\mare.jpg">
+	</div>
+	
+	
+	
+	
+	
+	
+	</div>
+<br><br><br>

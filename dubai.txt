@@ -1,0 +1,23 @@
+
+     <div class="destinazioni">
+	  <div class="imgDest">
+	  <img class="imgds" src="img\img card\dubai.jpg" style="width:100%" width="700" height="350">
+	      <div class="textDest">
+		  <p>Dubai</p>
+		  </div>
+	  </div>
+	</div>
+
+    <div class="descrizioneOfferte">
+	        <pre>
+			<font face="Georgia">
+Resort jumeirah Beach
+
+Pernottamento: 10 giorni
+Andata e ritorno compresi 
+Guida locale per visite:si
+Costo : 600 euro 2 persone
+Partenza: Roma
+			</pre>
+    </div>
+<br><br><br>

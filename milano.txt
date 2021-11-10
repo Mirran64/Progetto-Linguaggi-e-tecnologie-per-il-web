@@ -1,0 +1,22 @@
+     <div class="destinazioni">
+	  <div class="imgDest">
+	  <img class="imgds" src="img\img card\milano.jpg" style="width:100%" width="700" height="350">
+	      <div class="textDest">
+		  <p>Milano</p>
+		  </div>
+	  </div>
+	</div>
+
+    <div class="descrizioneOfferte">
+	        <pre>
+			<font face="Georgia">
+Volo da Roma a Milano
+
+ partenza ore: 12 e 30
+Aereporto: Ciampino
+   Orario Check in: 11 e 40
+   importo viaggio 70 EUR
+			</font>
+			</pre>
+    </div>
+<br>

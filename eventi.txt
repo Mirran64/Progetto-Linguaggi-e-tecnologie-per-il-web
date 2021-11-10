@@ -1,0 +1,165 @@
+<br><br>
+        
+
+		<div id="zonaDinamica">		
+			<h2 class="titoloDest"><font size="8" color="black" face="Georgia">Gli eventi pi&ugrave belli di questa stagione</font></h2>
+			<br><br>
+				<!-- sezioni eventi -->
+				<div class="destinazioni">
+					<img class="imgof" src="img\img eventi\bruno-mars-tour-europa-2018.jpg" style="width:100%" width="700" height="350">
+					<div class="overlay">
+						<div class="testoOver"><pre>
+                Roma
+                    Bruno Mars
+                    Capannelle
+                    Costo: 70 Euro
+                    Durata evento: 2 ore
+                    Data evento: 3/02/2019
+                        </pre>
+					</div>
+				</div>
+			</div>
+			
+			<div class="destinazioni">
+				<img class="imgof" src="img\img eventi\madonna.jpg" style="width:100%" width="700" height="350">
+				<div class="overlay">
+					<div class="testoOver"><pre>
+				Toronto
+				   Madonna Tour Usa
+				   Roger Centre
+				   Costo: 65 Euro
+				   Durata evento: 1 ore 
+				   Data evento: 5/04/2019
+					</pre>
+				</div>
+			</div>
+		</div>
+		</br>
+		<div class="destinazioni">
+			<img class="imgof" src="img\img eventi\shakira.jpeg" style="width:100%" width="700" height="350">
+			<div class="overlay">
+				<div class="testoOver"><pre>
+			Londra
+			   Shakira 
+			   Bellin priv&egrave
+			   Costo:  70 Euro
+			   partenza: Ciampino
+			   Durata evento: 1 ora
+			   Data evento: 18/06/2019
+				</pre>
+			</div>
+		</div>
+	</div>
+	
+	<div class="destinazioni">
+		<img class="imgof" src="img\img eventi\metallica.jpg" style="width:100%" width="700" height="350">
+		<div class="overlay">
+			<div class="testoOver"><pre>
+				New York
+				  Metallica Revival Event
+				  Central Garden
+				  Costo: 130 Euro
+				  Durata evento: 2 ore
+				  Data evento: 29/03/2019
+			</pre>
+		</div>
+	</div>
+</div>
+
+<div class="destinazioni">
+	<img class="imgof" src="img\img eventi\2CELLOS.jpg" style="width:100%" width="700" height="350">
+	<div class="overlay">
+		<div class="testoOver"><pre>
+			Verona
+			   2CELLOS
+			   Arena di Verona
+			   Costo: 40 Euro
+			   Durata evento: 2 ore
+			   Data evento:  7/01/2019
+		</pre>
+	</div>
+</div>
+</div>
+
+<div class="destinazioni">
+	<img class="imgof" src="img\img eventi\sting.jpg" style="width:100%" width="700" height="350">
+	<div class="overlay">
+		<div class="testoOver"><pre>
+			Miami
+			   Sting
+			   Miami Central Stadium
+			   Costo: 90 Euro
+			   Durata volo: 1 ore e 30 minuti
+			   Data evento: 24/6//2019
+		</pre>
+	</div>
+</div>
+</div>
+
+
+<div>
+			<!-- Sezione eventi priossimame viaggi -->
+			<h2 class="titoloDest"><font size="8" color="black" face="Georgia">Oppure tieni d'occhio i prossimi eventi</font></h2>
+			<br><br>
+			
+			<div class="destinazioni">
+				<div class="imgDest">
+					<img class="imgds" src="img\img eventi prossimamente\schiaccianoci.jpg" style="width:100%" width="700" height="350">
+					<div class="textDest">
+						<p> Lo schiaccianoci all'opera</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="destinazioni">
+				<div class="imgDest">
+					<img class="imgds" src="img\img eventi prossimamente\vanghog.jpg" style="width:100%" width="700" height="350">
+					<div class="textDest">
+						<p>vangogh in mostra - Verona</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="destinazioni">
+				<div class="imgDest">
+					<img class="imgds" src="img\img eventi prossimamente\rihanna.jpg" style="width:100%" width="700" height="350">
+					<div class="textDest">
+						<p>rihanna emotional tour 2019</p>
+					</div>
+				</div>
+			</div>	
+			
+			<div class="destinazioni">
+				<div class="imgDest">
+					<img class="imgds" src="img\img eventi prossimamente\harry.jpeg" style="width:100%" width="700" height="350">
+					<div class="textDest">
+						<p>harry potter in concert</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="destinazioni">
+				<div class="imgDest">
+					<img class="imgds" src="img\img eventi prossimamente\tedx.jpg" style="width:100%" width="700" height="350">
+					<div class="textDest">
+						<p>ted x talk</p>
+					</div>
+				</div>
+			</div>	
+
+			<div class="destinazioni">
+				<div class="imgDest">
+					<img class="imgds" src="img\img eventi prossimamente\gameofthroneslive.jpg" style="width:100%" width="700" height="350">
+					<div class="textDest">
+						<p>game of thrones live</p>
+					</div>
+				</div>
+			</div>	
+			
+			<div class="clearfix"></div>
+			
+	
+</div>	
+</div>
+
+<br><br><br>

@@ -1,0 +1,97 @@
+
+
+ <div>
+     <div class="destinazioni">
+	  <div class="imgDest">
+	  <img class="imgds" src="img\img card\roma.jpg" style="width:100%" width="700" height="350">
+	      <div class="textDest">
+		  <p>Roma</p>
+		  </div>
+	  </div>
+	</div>
+
+    <div class="descrizioneOfferte">
+	        <pre>
+			<font face="Georgia">
+Roma
+Costo: 80 EUR
+Partenza: milano
+Durata volo: 1 ora
+Scadenza: 20/03/2019
+			</font>
+			</pre>
+    </div>
+</div>
+<br><br><br>
+   <hr class="bhr" align="center" width="100%" size="10" color="#00cccc" border-radius="25px">	
+<div>
+	  <div class="destinazioniDex">
+	  <div class="imgDest">
+	  <img class="imgds" src="img\img card\milano.jpg" style="width:100%" width="700" height="350">
+	      <div class="textDest">
+		  <p>Milano</p>
+		  </div>
+	  </div>
+	</div>
+
+    <div class="descrizioneOfferte2">
+	        <pre>
+			<font face="Georgia">
+Milano
+Costo: 80 EUR
+Partenza: Roma
+Durata volo: 1 ora
+Scadenza: 20/03/2019
+			</font>
+			</pre>
+    </div>
+</div>	
+<br><br><br>
+<hr class="bhr" align="center" width="100%" size="10" color="#00cccc">
+<div>
+     <div class="destinazioni">
+	  <div class="imgDest">
+	  <img class="imgds" src="img\img card\bangkok.jpg" style="width:100%" width="700" height="350">
+	      <div class="textDest">
+		  <p>Bangkok</p>
+		  </div>
+	  </div>
+	</div>
+
+    <div class="descrizioneOfferte">
+	        <pre>
+			<font face="Georgia">
+Bangkok
+Costo: 120 EUR
+Partenza: Roma
+Durata volo: 6 ore
+Scadenza: 15/02/2019
+			</font>
+			</pre>
+    </div>
+<br><br><br>
+	   <hr class="bhr" align="center" width="100%" size="10" color="#00cccc" border-radius="25px">	
+	<div>
+	  <div class="destinazioniDex">
+	  <div class="imgDest">
+	  <img class="imgds" src="img\img card\berlino.jpg" style="width:100%" width="700" height="350">
+	      <div class="textDest">
+		  <p>Berlino</p>
+		  </div>
+	  </div>
+	</div>
+
+    <div class="descrizioneOfferte2">
+	        <pre>
+			<font face="Georgia">
+Berlino
+Costo: 95 EUR
+Partenza: Roma
+Durata volo: 2 ora
+Scadenza: 25/02/2019
+			</font>
+			</pre>
+    </div>
+	
+</div>
+<br><br><br>
